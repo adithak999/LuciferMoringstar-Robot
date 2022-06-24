@@ -23,7 +23,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "1905228806:AAH2iahJcg5J6bqpcW11jB9KajwH
 PICS = os.environ.get("PICS", "https://telegra.ph/file/034d53b5ed1d920ecab8b.jpg")
 # Database
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "LuciferMoringstar-Robot")
-DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://{Username}:{Passs}@cluster0.{clusterID}.mongodb.net/myFirstDatabase?retryWrites=true{iD}=majority")
+DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://YU:YU@cluster0.yzgkk6e.mongodb.net/?retryWrites=true&w=majority")
 # Chats & Users
 ADMINS = os.environ.get("ADMINS", "2028425293 1637186875")
 SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "Mo_Tech_Group")
